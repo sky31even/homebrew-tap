@@ -7,7 +7,7 @@ cask "macgauge" do
   desc "Menu-bar system monitor with a pinnable always-on-top stats panel"
   homepage "https://github.com/sky31even/MacGauge"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
   depends_on arch: :arm64
 
   app "MacGauge.app"
