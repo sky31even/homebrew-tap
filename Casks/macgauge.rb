@@ -1,6 +1,6 @@
 cask "macgauge" do
-  version "0.1.0"
-  sha256 "fa4a834a767f9a031945e563c346c704f511b575a0f7be4f2d61bbf2af20af24"
+  version "0.1.1"
+  sha256 "7c79bcc4fe5a0e0238d81b41828ae3c038640252b6f5f96d0b08259d918ce8df"
 
   url "https://github.com/sky31even/MacGauge/releases/download/v#{version}/MacGauge-#{version}.zip"
   name "MacGauge"
